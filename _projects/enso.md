@@ -1,0 +1,27 @@
+---
+title: "Linking ENSO to oceanic dynamical regimes using transparent ML"
+excerpt:  "Investigating ENSO dynamics in several CMIP6 models"
+header:
+    teaser: "assets/images/enso_project-th.png"
+featured_figure: 
+    image: "assets/images/enso_project.png"
+learn_more: "assets/papers/enso_project_paper.pdf"
+code: "https://github.com/maikejulie/DNN4Cli"
+people:
+  - name: "Zouberou Sayibou"
+    ccog: true
+  - name: "Maike Sonnewald"
+    ccog: true
+  - name: "Aparna Radhakrishnan"
+  - name: "Andrew Wittenberg"
+  - name: "Redouane Lguensat"
+  - name: "V. Balaji"
+---
+
+## Linking ENSO to Oceanic Dynamical Regimes using Transparent Machine Learning
+
+We investigate El Niño / Southern Oscillation (ENSO) dynamics in several Climate Model Intercomparison Project phase 6 (CMIP6) models, using the transparent machine learning (ML) method, Tracking global Heating with Ocean Regimes (THOR). THOR combines interpretable and explainable methods to predict ocean dynamical regimes using only readily observable surface variables. 
+
+We investigate ENSO under three forcing scenarios: historical, CO2 increasing by 1% per year, and CO2 abruptly quadrupling. We focus on two key regions: the full tropical Pacific to characterize the large-scale climate and regimes, and the Niño-3 region (150°W-90°W, 5°S-5°N) to characterize ENSO. For future scenarios, THOR for example reveals an expansion of two poleward Sverdrupian dynamical regimes (one governed by positive wind stress curl north of the equator in some models, and one governed by negative wind stress curl south of the equator in all of the assessed models), which intensifies with increasing CO2. The models also show increases in Niño-3 precipitation and relative sea surface temperature (RSST, i.e. local SST minus tropical-mean SST) which intensify with increasing CO2, eventually leading to unprecedented extremes during El Niño years. 
+
+THOR reveals that changes in ENSO at high CO2 are accompanied by stronger time-mean poleward Sverdrup transport divergence near the equator, which would be expected to accelerate the Equatorial Undercurrent in the central equatorial Pacific. These regime shifts appear to be linked to expanding atmospheric convergence zones and associated wind stress curl in the vicinity of Niño-3. Substantial inter-model differences in the simulated patterns and sensitivities of rainfall, ocean dynamical regimes, and ENSO are evident.

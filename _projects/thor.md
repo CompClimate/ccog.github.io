@@ -1,0 +1,29 @@
+---
+title: "Revealing the impact of global heating on North Atlantic circulation"
+excerpt: "An application using transparent machine learning"
+header:
+    teaser: "https://agupubs.onlinelibrary.wiley.com/cms/asset/ff88e5c8-05d9-4362-bbb2-2e4804d038a2/jame21406-fig-0004-m.jpg"
+featured_figure:
+    image: "assets/images/thor-cover.png"
+learn_more: "http://doi.org/10.1029/2021MS002496"
+code: https://github.com/maikejulie/DNN4Cli/tree/main/THOR/"
+people:
+  - name: "Maike Sonnewald"
+    ccog: true
+  - name: "Redouane Lguensat"
+---
+
+## Revealing the Impact of Global Heating on North Atlantic Circulation Using Transparent Machine Learning
+
+The North Atlantic ocean is key to climate through its role in heat transport and storage. Climate models suggest that the circulation is weakening but the physical drivers of this change are poorly constrained. Here, the root mechanisms are revealed with the explicitly transparent machine learning (ML) method Tracking global Heating with Ocean Regimes (THOR). 
+
+Addressing the fundamental question of the existence of dynamical coherent regions, THOR identifies these and their link to distinct currents and mechanisms such as the formation regions of deep water masses, and the location of the Gulf Stream and North Atlantic Current. Beyond a black box approach, THOR is engineered to elucidate its source of predictive skill rooted in physical understanding. 
+
+A labeled data set is engineered using an explicitly interpretable equation transform and k-means application to model data, allowing theoretical inference. A multilayer perceptron is then trained, explaining its skill using a combination of layerwise relevance propagation and theory. With abrupt CO2 quadrupling, the circulation weakens due to a shift in deep water formation regions, a northward shift of the Gulf Stream and an eastward shift in the North Atlantic Current. If CO2 is increased 1% yearly, similar but weaker patterns emerge influenced by natural variability. 
+
+THOR is scalable and applicable to a range of models using only the ocean depth, dynamic sea level and wind stress, and could accelerate the analysis and dissemination of climate model data. THOR constitutes a step toward trustworthy ML called for within oceanography and beyond, as its predictions are physically tractable.
+
+**What's new**
+- The transparent machine learning method Tracking global Heating with Ocean Regimes (THOR) is presented, applied to the North Atlantic ocean
+- Global heating shifts regimes of the Gulf Stream north, the North Atlantic Current east and deep water mass formation toward lighter waters
+- Widely applicable, THOR could accelerate analysis and dissemination of climate model data needing only depth, sea level and wind stress

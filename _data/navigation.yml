@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/   
+  - title: "Projects"
+    url: /projects/         
+  - title: "People"
+    url: /people/
+  - title: "Join"
+    url: /join/        
+  - title: "Contact"
+    url: /contact/   
