@@ -26,6 +26,9 @@ people_row_alumni:
   - image_path: /assets/images/profile-otter.png
     name: "Zouberou Sayibou"
     role: "CIMES Scholar"
+  - image_path: /assets/images/profile-otter.png
+    name: "Gian Giacomo Nararra"
+    role: "PhD student"
 
 # https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_docs/14-helpers.md
 # look at https://fraserlab.com/join/
