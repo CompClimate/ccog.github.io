@@ -2,10 +2,10 @@
 title: "Predicting Pacific fisheries"
 excerpt: "Using Deep Learning to forecast marine fishery indicators in the North Pacific"
 header:
-    teaser: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43247-023-00793-7/MediaObjects/43247_2023_793_Fig9_HTML.png"
+    teaser: /assets/images/GRU_AbRec.png
 featured_figure:
-    image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43247-023-00793-7/MediaObjects/43247_2023_793_Fig9_HTML.png"
-    caption: "Sketch illustrating the difference between old and proposed frameworks."
+    image: /assets/images/GRU_AbRec.png
+    caption: "Correlation maps of SST anomalies on the first Kernel Principal Component (PC) of Abundance (a) and on the second PC of Abundance (b). The same has been done for the Recruitment (c), (d).."
 
 code: "https://github.com/maikejulie/DNN4Cli/tree/main/THOR/Step1"
 people:
