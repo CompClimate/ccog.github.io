@@ -14,6 +14,7 @@ people:
   - name: "Christopher Hill"
   - name: "Gael Forget"
 tags:
+  - ocean
   - unsupervised learning
   - policy
 ---

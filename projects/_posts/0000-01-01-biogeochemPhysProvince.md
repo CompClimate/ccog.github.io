@@ -14,6 +14,7 @@ people:
   - name: "Maike Sonnewald"
     ccog: true
 tags:
+  - ocean
   - data mining
 ---
 

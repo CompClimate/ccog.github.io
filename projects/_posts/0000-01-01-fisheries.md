@@ -17,7 +17,10 @@ people:
   - name: "Giovanni Liguori"
   - name: "Emanuele Di Lorenzo"
 tags:
+  - ocean
   - deep learning
+  - observations
+  - policy
 ---
 
 ## Using Deep Learning to forecast marine fishery indicators in the North Pacific
