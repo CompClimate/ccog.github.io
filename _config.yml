@@ -299,9 +299,6 @@ collections:
     output: true
   people:
     output: true
-  projects:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -325,8 +322,8 @@ defaults:
       author_profile: true
   # _projects
   - scope:
-      path: ""
-      type: projects
+      path: "projects"
+      type: posts
     values:
       layout: projects
       author_profile: false
