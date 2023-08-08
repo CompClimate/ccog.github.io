@@ -13,6 +13,10 @@ people:
   - name: "Stephanie Dutkiewicz"
   - name: "Christopher Hill"
   - name: "Gael Forget"
+tags:
+  - ocean
+  - unsupervised learning
+  - policy
 ---
 
 ## Elucidating ecological complexity: Unsupervised learning determines global marine eco-provinces

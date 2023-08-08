@@ -13,6 +13,10 @@ people:
     ccog: true
   - name: "Krissy Anne Reeve"
   - name: "Redouane Lguensat"
+tags:
+  - fundamental understanding
+  - theory
+  - ocean
 ---
 
 ## A Southern Ocean supergyre as a unifying dynamical framework identified by physics-informed machine learning
