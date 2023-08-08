@@ -1,7 +1,7 @@
 ---
 lastname: "Navarra"
 firstname: "Gian Giacomo"
-pub_id: "Nararra GG"
+pub_id: "Navarra GG"
 role: "PhD Student"
 status: "alumn"
 
