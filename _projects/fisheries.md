@@ -5,7 +5,7 @@ header:
     teaser: /assets/images/GRU_AbRec.png
 featured_figure:
     image: /assets/images/GRU_AbRec.png
-    caption: "Correlation maps of SST anomalies on the first Kernel Principal Component (PC) of Abundance (a) and on the second PC of Abundance (b). The same has been done for the Recruitment (c), (d).."
+    caption: "Correlation maps of SST anomalies on the first Kernel Principal Component (PC) of Abundance (a) and on the second PC of Abundance (b). The same has been done for the Recruitment (c), (d)."
 
 code: "https://github.com/maikejulie/DNN4Cli/tree/main/THOR/Step1"
 people:
