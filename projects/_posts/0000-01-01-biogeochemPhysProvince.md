@@ -13,7 +13,8 @@ people:
     ccog: true
   - name: "Maike Sonnewald"
     ccog: true
-
+tags:
+  - data mining
 ---
 
 ## Towards objective data mining: An example on 3D North Atlantic physical and biogeochemical data
