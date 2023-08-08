@@ -27,7 +27,7 @@ people_row_alumni:
     name: "Zouberou Sayibou"
     role: "CIMES Scholar"
   - image_path: /assets/images/profile-otter.png
-    name: "Gian Giacomo Nararra"
+    name: "Gian Giacomo Navarra"
     role: "PhD student"
 
 # https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_docs/14-helpers.md
