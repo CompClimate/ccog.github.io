@@ -12,10 +12,10 @@ people_row_current:
     name: "Maike Sonnewald"
     role: "Group Leader"
     url: "https://www.msonnewald.com"
-  - image_path: /assets/images/yvonne1_square.png
+  - image_path: /assets/images/yvonne2_square.png
     name: "Yvonne Jenniges"
     role: "PhD Student"
-  - image_path: /assets/images/profile-otter.png
+  - image_path: /assets/images/jacob.png
     name: "Jacob Cohen"
     role: "PhD Student"
   - image_path: /assets/images/will.png
