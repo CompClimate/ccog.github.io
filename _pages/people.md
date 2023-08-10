@@ -20,7 +20,7 @@ people_row_current:
     role: "Hollings Scholar"
 
 people_row_alumni:
-  - image_path: /assets/images/mariana_square.png.png
+  - image_path: /assets/images/mariana_square.png
     name: "Mariana Clare"
     role: "PhD Student"   
   - image_path: /assets/images/profile-otter.png
