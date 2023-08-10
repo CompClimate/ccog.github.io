@@ -6,6 +6,7 @@ title: "Publications"
 <!-- https://github.com/inukshuk/jekyll-scholar/issues/75 -->
 <style>ol.bibliography li { list-style: none }</style>
 
+
 For more complete publication list of Prof. Sonnewald see [Google Scholar.][https://scholar.google.com/citations?user=kSxRj7gAAAAJ].
 
 ## Journal Articles
