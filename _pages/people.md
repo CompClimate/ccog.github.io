@@ -15,7 +15,7 @@ people_row_current:
   - image_path: /assets/images/yvonne2_square.png
     name: "Yvonne Jenniges"
     role: "PhD Student"
-  - image_path: /assets/images/jacob.png
+  - image_path: /assets/images/jacob.jpg
     name: "Jacob Cohen"
     role: "PhD Student"
   - image_path: /assets/images/will.png
