@@ -16,4 +16,5 @@ header:
 
 # Projects
 
+Samples of published and ongoing projects by CCOG. Exciting new focus areas include sea level and large scale climate dynamics.
 <!-- Coming soon! -->
