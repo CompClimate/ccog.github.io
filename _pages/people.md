@@ -15,6 +15,9 @@ people_row_current:
   - image_path: /assets/images/yvonne1_square.png
     name: "Yvonne Jenniges"
     role: "PhD Student"
+  - image_path: /assets/images/profile-otter.png
+    name: "Jacob Cohen"
+    role: "PhD Student"
   - image_path: /assets/images/will.png
     name: "William Yik"
     role: "Hollings Scholar"
