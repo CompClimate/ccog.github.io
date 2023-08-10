@@ -16,5 +16,7 @@ header:
 
 # Projects
 
-Samples of published and ongoing projects by CCOG. Exciting new focus areas include sea level and large scale climate dynamics.
+Samples of published and ongoing projects by CCOG. Sort them by computational or Earth Science tags. 
+
+Exciting new CCOG focus areas include sea level and large scale climate dynamics.
 <!-- Coming soon! -->
