@@ -15,7 +15,7 @@ header:
 
 > We target grand challenges towards improving ocean and climate understanding and resilience. Solutions to the challenges humanity, and the world, face are deeply interdisciplinary, and so is our lab. Blending cutting-edge computational and Earth science tools and knowledge, we combine theory, observations, and numerics to pioneer methods and create insight.
 
-This group focuses on several research areas:
+CCOG focuses on several research areas:
 
 
 {% capture notice-1 %}
