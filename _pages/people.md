@@ -12,7 +12,7 @@ people_row_current:
     name: "Maike Sonnewald"
     role: "Group Leader"
     url: "https://www.msonnewald.com"
-  - image_path: /assets/images/profile-otter.png
+  - image_path: /assets/images/yvonne1_square.png
     name: "Yvonne Jenniges"
     role: "PhD Student"
   - image_path: /assets/images/profile-otter.png
@@ -20,7 +20,7 @@ people_row_current:
     role: "Hollings Scholar"
 
 people_row_alumni:
-  - image_path: /assets/images/profile-otter.png
+  - image_path: /assets/images/mariana_square.png.png
     name: "Mariana Clare"
     role: "PhD Student"   
   - image_path: /assets/images/profile-otter.png
