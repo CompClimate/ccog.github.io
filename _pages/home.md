@@ -27,9 +27,9 @@ This group focuses on several research areas:
 
 {% capture notice-2 %}
 **Earth Science**: *Objective advancement of our understanding of the Earth*
-  1. **Fundamental insight**: Ocean and climate dynamics
+  1. **Fundamental insight**: Elucidate ocean and climate dynamics
   2. **Forecasting:** Improve predictions on long range weather and climate
-  3. **Resilience:** Study marine food chain
+  3. **Resilience:** Study impacts on physical and biogeochemical ocean and climate
 {% endcapture %}
 
 <div class="notice">{{ notice-1 | markdownify }}</div>
