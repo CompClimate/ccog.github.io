@@ -17,6 +17,8 @@ tags:
   - ocean
   - unsupervised learning
   - policy
+  - probabilistic ML
+  - data mining
 ---
 
 ## Elucidating ecological complexity: Unsupervised learning determines global marine eco-provinces
