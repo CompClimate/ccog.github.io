@@ -17,6 +17,7 @@ tags:
   - ocean
   - data mining
   - observations
+  - probabilistic ML
 ---
 
 ## Towards objective data mining: An example on 3D North Atlantic physical and biogeochemical data
