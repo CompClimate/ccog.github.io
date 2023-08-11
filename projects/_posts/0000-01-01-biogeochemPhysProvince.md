@@ -16,6 +16,7 @@ people:
 tags:
   - ocean
   - data mining
+  - observations
 ---
 
 ## Towards objective data mining: An example on 3D North Atlantic physical and biogeochemical data
