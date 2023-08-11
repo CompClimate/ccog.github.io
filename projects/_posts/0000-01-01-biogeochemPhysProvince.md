@@ -18,6 +18,7 @@ tags:
   - data mining
   - observations
   - probabilistic ML
+  - unsupervised learning
 ---
 
 ## Towards objective data mining: An example on 3D North Atlantic physical and biogeochemical data
