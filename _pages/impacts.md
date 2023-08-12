@@ -43,3 +43,16 @@ The NOAA AI Strategy is an action to the President’s Executive Order on Mainta
 Leadership in Artificial Intelligence. 
 
 [Learn more]({{ site.baseurl | append: "/assets/papers/Artificial-Intelligence-Strategic-Plan_Final-Signed.pdf" }}){: .btn .btn--inverse}
+<br>
+
+## New Zealand's Marine Protected Area Legislation
+
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/images/Department_of_Conservation_New_Zealand_logo.png" alt="">
+</figure>  
+
+CCOG results were requested by advisers of the New Zealand Department of Conservation for their ongoing work to improve 
+decision-making associated with marine protected area implementation and the reform of New Zealand’s 
+Marine Protected Area Legislation. Data like what we provided informs the development 
+of ecologically representative systems of protected areas as required by international agreements such as 
+the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
