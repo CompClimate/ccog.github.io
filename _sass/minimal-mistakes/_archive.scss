@@ -85,6 +85,20 @@
   }
 }
 
+.archive__item-details {
+  margin-top: -0.4em;
+  font-size: $type-size-8;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
+}
+
+
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
