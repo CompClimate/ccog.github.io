@@ -22,7 +22,7 @@ For more complete publication list of Prof. Sonnewald including review articles 
 
 ## Prof. Sonnewald invited talks (selected)
 
-#### 2023 (Total: 4)
+#### 2023 
 
 **AI for Good** by the United Nations' International Telecommunication Union
 
