@@ -42,7 +42,7 @@ For more complete publication list of Prof. Sonnewald including review articles 
 
  **U. Cambridge**, Environmental Data Science Group,  Intelligent solutions to monitor ocean health.
 
-Others: **SIAM DS**, **U. Wisconsin-Madison**, **Max Planck Institute  for Meteorology**, **UC Berkeley**,  **MIT for EAPS and Mechanical Engineering**, **U. Rhode Island**, **IMSI, U. Chicago**.
+Others: **SIAM DS**, **U. Wisconsin-Madison**, **Max Planck Institute  for Meteorology**, **UC Berkeley**,  **MIT for EAPS and Mechanical Engineering**, **U. Rhode Island**, **IMSI**, **U. Chicago**.
 
 #### 2021 (Total: 14)
 
@@ -63,7 +63,7 @@ Others: **KITP**, **Scripps Institute of Oceanography**, **U. Washington**, **U.
 
 **NOAA Senior Management Meeting, Oceanic and Atmospheric Research**, Building geographies of ocean dynamical regimes.
 
-Others: **Los Alamos National Laboratory**, **U. Washington**, (engineering), **U. Washington**, (phys. oceanography), **U. British Columbia**, **NOAA**, workshop, **U. Washington**, (bio. oceanography).
+Others: **Los Alamos National Laboratory**, **U. Washington**, **U. Washington**, **U. British Columbia**, **NOAA**, workshop, **U. Washington**.
 
 #### 2019 (Total: 7)
 
@@ -71,7 +71,7 @@ Others: **Los Alamos National Laboratory**, **U. Washington**, (engineering), **
 
 **Norway-US bilateral AI workshop**, Elucidating Ecological Complexity.
 
-Others: **Princeton University**, **Norway-US bilateral AI workshop**, (on dynamical regimes), **WHOI**, **U. Troms\o{****, **U. Bergen**. 
+Others: **Princeton University**, **Norway-US bilateral AI workshop**, **WHOI**, **U. Troms&oe**, **U. Bergen**. 
 
 
 ### 2012-2018 (Total: 17)
@@ -82,4 +82,4 @@ Others: **Princeton University**, **Norway-US bilateral AI workshop**, (on dynam
 
 **Yale University**, Ocean model utility dependence on horizontal resolution.
 
-Others: **MIT**, (2018 & 2015), **Stony Brook University**, **U. Texas at Austin**, **U. Washington**, **Oregon State University**, **U. Oxford**, **MIT**, (Two invited student talks), **U. Bristol**, **NOCS**, (2015, 2014 & 2013) and **MONCACO meeting**. 
+Others: **MIT**, (2018 & 2015), **Stony Brook University**, **U. Texas at Austin**, **U. Washington**, **Oregon State University**, **U. Oxford**, **MIT**, **U. Bristol**, **NOCS**, (2015, 2014 & 2013) and **MONCACO meeting**. 
