@@ -11,6 +11,7 @@ people_row_current:
   - image_path: /assets/images/profile-maike.jpg
     name: "Maike Sonnewald"
     role: "Group Leader"
+    pronouns: "she/her"
     url: "https://www.msonnewald.com"
   - image_path: /assets/images/yvonne2_square.png
     name: "Yvonne Jenniges"

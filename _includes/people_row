@@ -30,12 +30,19 @@
             {% endif %}
           {% endif %}
 
-
           {% if f.role %}
-            <div class="archive__item-excerpt">
-              {{ f.role | markdownify }}
-            </div>
+          <div class="archive__item-details">
+            {{ f.role | markdownify | remove: "<p>" | remove: "</p>" }}
+          </div>
           {% endif %}
+
+          {% if f.pronouns %}
+          <div class="archive__item-details">
+            <i> {{ f.pronouns | markdownify | remove: "<p>" | remove: "</p>" }} </i>
+          </div>
+          {% endif %}
+          
+
 
         </div>
       </div>
