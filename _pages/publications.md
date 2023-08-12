@@ -24,11 +24,11 @@ For more complete publication list of Prof. Sonnewald including review articles 
 
 #### 2023 (Total: 4)
 
-** AI for Good** by the United Nations' International Telecommunication Union
+**AI for Good** by the United Nations' International Telecommunication Union
 
  **University of Toronto**, Nobel Seminar Series
 
- Others: ** U. Miami**, **UC Davis**, **U. Liege**
+ Others: **U. Miami**, **UC Davis**, **U. Liege**
 
 #### 2022 (Total: 14)
 
@@ -59,27 +59,27 @@ Others: **KITP**, **Scripps Institute of Oceanography**, **U. Washington**, **U.
 
 
 #### 2020** (Total: 7)
-**Second NOAA Workshop on Leveraging AI in the Environmental Sciences***Elucidating Ecological Complexity: Unsupervised Learning determines global marine eco-provinces**
+**Second NOAA Workshop on Leveraging AI in the Environmental Sciences**, Elucidating Ecological Complexity: Unsupervised Learning determines global marine eco-provinces.
 
-**NOAA Senior Management Meeting, Oceanic and Atmospheric Research**. Building geographies of ocean dynamical regimes.
+**NOAA Senior Management Meeting, Oceanic and Atmospheric Research**, Building geographies of ocean dynamical regimes.
 
 Others: **Los Alamos National Laboratory**, **U. Washington**, (engineering), **U. Washington**, (phys. oceanography), **U. British Columbia**, **NOAA**, workshop, **U. Washington**, (bio. oceanography).
 
 #### 2019 (Total: 7)
 
- **AGU**, *The case for machine learning in geoscience**. 
+ **AGU**, The case for machine learning in geoscience.
 
-**Norway-US bilateral AI workshop**, *Elucidating Ecological Complexity**. Austin, USA.
+**Norway-US bilateral AI workshop**, Elucidating Ecological Complexity.
 
 Others: **Princeton University**, **Norway-US bilateral AI workshop**, (on dynamical regimes), **WHOI**, **U. Troms\o{****, **U. Bergen**. 
 
 
 ### 2012-2018 (Total: 17)
 
-**WHOI**, *Unsupervised learning classifies global ocean dynamical regions**.
+**WHOI**, Unsupervised learning classifies global ocean dynamical regions.
 
-**Columbia University, LDEO**, *Linear predictability: A sea surface height case study*.
+**Columbia University, LDEO**, Linear predictability: A sea surface height case study.
 
-**Yale University**, *Ocean model utility dependence on horizontal resolution*.
+**Yale University**, Ocean model utility dependence on horizontal resolution.
 
 Others: **MIT**, (2018 & 2015), **Stony Brook University**, **U. Texas at Austin**, **U. Washington**, **Oregon State University**, **U. Oxford**, **MIT**, (Two invited student talks), **U. Bristol**, **NOCS**, (2015, 2014 & 2013) and **MONCACO meeting**. 
