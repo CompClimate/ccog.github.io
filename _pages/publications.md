@@ -58,7 +58,7 @@ Others: **KITP**, **Scripps Institute of Oceanography**, **U. Washington**, **U.
 
 
 
-#### 2020** (Total: 7)
+#### 2022 (Total: 7)
 **Second NOAA Workshop on Leveraging AI in the Environmental Sciences**, Elucidating Ecological Complexity: Unsupervised Learning determines global marine eco-provinces.
 
 **NOAA Senior Management Meeting, Oceanic and Atmospheric Research**, Building geographies of ocean dynamical regimes.
@@ -74,7 +74,7 @@ Others: **Los Alamos National Laboratory**, **U. Washington**, **U. Washington**
 Others: **Princeton University**, **Norway-US bilateral AI workshop**, **WHOI**, **U. Troms&oe**, **U. Bergen**. 
 
 
-### 2012-2018 (Total: 17)
+#### 2012-2018 (Total: 17)
 
 **WHOI**, Unsupervised learning classifies global ocean dynamical regions.
 
