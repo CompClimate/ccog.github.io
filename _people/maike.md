@@ -4,5 +4,8 @@ firstname: "Maike"
 pub_id: "Sonnewald M"
 role: "Group Leader"
 status: "active"
-personal_site: "https://www.msonnewald.com/"
+pronouns: "she/her"
+sort_display: 4
+image_path: /assets/images/profile-maike.jpg
+website: "https://www.msonnewald.com/"
 ---
