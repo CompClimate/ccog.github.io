@@ -1,58 +1,54 @@
-{% if include.id %}
-  {% assign people_row = page[include.id] %}
-{% else %}
-  {% assign people_row = page.people_row %}
+{% assign people = include.people %}
+{% assign label = include.label | default: "People" %}
+
+{% if people.size > 1 %}
+  <h1 id="{{ label }}">{{ label }}</h1>
+
+  <div class="feature__wrapper">
+      {% for person in people %}
+          {% assign last_name =  person.lastname | prepend: " " %}
+          {% assign person_name = person.firstname | append: last_name %}
+          <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+              <div class="archive__item">
+                  {% if person.image_path %}
+                  <div class="archive__item-teaser">       
+                      <img src="{{ person.image_path | relative_url }}"
+                          alt="{% if person.alt %}{{ person.alt }}{% endif %}">                   
+                  </div>
+                  {% endif %}
+          
+                  <div class="archive__item-body">
+                  {% if person_name %}
+                      {% if person.website %}
+                          <a href="{{ person.website }}">
+                      {% endif %}
+                          <div class="archive__item-excerpt"> <b> {{ person_name }} </b></div>
+                      {%if person.website %}
+                      </a>
+                      {% endif %}
+                  {% endif %}
+          
+                  {% if person.role %}
+                  <div class="archive__item-details">
+                      {{ person.role | markdownify | remove: "<p>" | remove: "</p>" }}
+                  </div>
+                  {% endif %}
+          
+                  {% if person.pronouns %}
+                  <div class="archive__item-details">
+                      <i> {{ person.pronouns | markdownify | remove: "<p>" | remove: "</p>" }} </i>
+                  </div>
+                  {% endif %}                            
+          
+                  {% if person.subsequently %}
+                  <div class="archive__item-details">
+                      Subsequently: {{ person.subsequently | markdownify | remove: "<p>" | remove: "</p>" }}
+                  </div>
+                  {% endif %}   
+
+                  </div>
+              </div>                    
+          </div>
+      {% endfor %}
+  </div>
 {% endif %}
-
-<div class="feature__wrapper">
-
-  {% for f in people_row %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-      <div class="archive__item">
-        {% if f.image_path %}
-          <div class="archive__item-teaser">       
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">                   
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
-          </div>
-        {% endif %}
-
-        <div class="archive__item-body">
-          {% if f.name %}
-            {% if f.url %}
-            <a href="{{ f.url }}">
-            {% endif %}
-              <div class="archive__item-excerpt"> <b> {{ f.name }} </b></div>
-            {%if f.url %}
-            </a>
-            {% endif %}
-          {% endif %}
-
-          {% if f.role %}
-          <div class="archive__item-details">
-            {{ f.role | markdownify | remove: "<p>" | remove: "</p>" }}
-          </div>
-          {% endif %}
-
-          {% if f.pronouns %}
-          <div class="archive__item-details">
-            <i> {{ f.pronouns | markdownify | remove: "<p>" | remove: "</p>" }} </i>
-          </div>
-          {% endif %}
-          
-
-          {% if f.subsequently %}
-          <div class="archive__item-details">
-            Subsequently: {{ f.subsequently | markdownify | remove: "<p>" | remove: "</p>" }}
-          </div>
-          {% endif %}
-          
-
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-
-</div>
