@@ -43,6 +43,12 @@
           {% endif %}
           
 
+          {% if f.subsequently %}
+          <div class="archive__item-details">
+            Subsequently: {{ f.subsequently | markdownify | remove: "<p>" | remove: "</p>" }}
+          </div>
+          {% endif %}
+          
 
         </div>
       </div>
