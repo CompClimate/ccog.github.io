@@ -11,6 +11,7 @@ people_row_current:
   - image_path: /assets/images/profile-maike.jpg
     name: "Maike Sonnewald"
     role: "Group Leader"
+    pronouns: "she/her"
     url: "https://www.msonnewald.com"
   - image_path: /assets/images/yvonne2_square.png
     name: "Yvonne Jenniges"
@@ -25,10 +26,11 @@ people_row_current:
 people_row_alumni:
   - image_path: /assets/images/mariana_square.png
     name: "Mariana Clare"
-    role: "PhD Student"   
+    role: "PhD Student"
   - image_path: /assets/images/zouberou_square.png
     name: "Zouberou Sayibou"
     role: "CIMES Scholar"
+    subsequently: "Stanford CS"
   - image_path: /assets/images/gianGiacomo_square.png
     name: "Gian Giacomo Navarra"
     role: "PhD student"
