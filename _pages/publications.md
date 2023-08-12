@@ -18,25 +18,68 @@ For more complete publication list of Prof. Sonnewald including review articles 
 
 {% bibliography -q @inproceedings %}
 
+
+
 ## Prof. Sonnewald invited talks (selected)
 
-$$
-\begin{tabular}{L!{\VRule}R}
+#### 2023 (Total: 4)
 
-\underline{2012-2018}& \underline{Total talks: 17}\\
+** AI for Good** by the United Nations' International Telecommunication Union
+
+ **University of Toronto**, Nobel Seminar Series
+
+ Others: ** U. Miami**, **UC Davis**, **U. Liege**
+
+#### 2022 (Total: 14)
+
+ **CLIVAR**, Physical Oceanography review panel.
+
+ **NOAA GFDL HQ site review**, Discovering and using ocean regimes at GFDL.
+
+ **Climate Informatics**, Asking how the Southern Ocean responds to global heating and understanding why the answer emerged. 
+
+ **SIAM Geoscience**, Understanding the ocean's response in a future climate.
+
+ **U. Cambridge**, Environmental Data Science Group,  Intelligent solutions to monitor ocean health.
+
+Others: **SIAM DS**, **U. Wisconsin-Madison**, **Max Planck Institute  for Meteorology**, **UC Berkeley**,  **MIT for EAPS and Mechanical Engineering**, **U. Rhode Island**, **IMSI, U. Chicago**.
+
+#### 2021 (Total: 14)
+
+**AGU**, Revealing the impact of climate change on North Atlantic circulation using ML.
+
+**Dept of Energy**, workshop, Requested topic: **Ocean Grand Challenges: Using AI/ML to push the frontiers.**
+
+**Climate Change AI**, A robust blueprint for trustworthy AI for climate analysis.
+
+**NOAA**, workshop, Revealing the impact of global warming on climate modes using transparent machine learning and a suite of climate models. 
+
+Others: **KITP**, **Scripps Institute of Oceanography**, **U. Washington**, **U. Chicago**, **International Conference on Machine Learning**, **Summit: Incorporating Data Science and Open Science in Aquatic Research**, **University Corporation for Atmospheric Research (UCAR)**, **U. California, Santa Cruz**, **GEOMAR Helmholtz Centre for Ocean Research**, **Technical U. Munich**, **Potsdam Institute for Climate Impact**.
 
 
 
+#### 2020** (Total: 7)
+**Second NOAA Workshop on Leveraging AI in the Environmental Sciences***Elucidating Ecological Complexity: Unsupervised Learning determines global marine eco-provinces**
 
-%2018& \textbf{MIT}, \textit{Machine learning for global biogeography?} Cambridge, USA.\\
--&\textbf{WHOI}, \textit{Unsupervised learning classifies global ocean dynamical regions}.\\
+**NOAA Senior Management Meeting, Oceanic and Atmospheric Research**. Building geographies of ocean dynamical regimes.
 
--&\textbf{Columbia University, LDEO}, \textit{Linear predictability: A sea surface height case study}.\\
-%2017&\textbf{Stony Brook University}, \textit{Linear predictability: A sea surface height case study}. Stony Brook, USA.\\
+Others: **Los Alamos National Laboratory**, **U. Washington**, (engineering), **U. Washington**, (phys. oceanography), **U. British Columbia**, **NOAA**, workshop, **U. Washington**, (bio. oceanography).
 
--&\textbf{Yale University}, \textit{Ocean model utility dependence on horizontal resolution}.\\
-%
+#### 2019 (Total: 7)
+
+ **AGU**, *The case for machine learning in geoscience**. 
+
+**Norway-US bilateral AI workshop**, *Elucidating Ecological Complexity**. Austin, USA.
+
+Others: **Princeton University**, **Norway-US bilateral AI workshop**, (on dynamical regimes), **WHOI**, **U. Troms\o{****, **U. Bergen**. 
 
 
-Others & \textbf{MIT} (2018 \& 2015), \textbf{Stony Brook University}, \textbf{U. Texas at Austin}, \textbf{U. Washington}, \textbf{Oregon State University}, \textbf{U. Oxford}, \textbf{MIT} (Two invited student talks), \textbf{U. Bristol}, \textbf{NOCS} (2015, 2014 \& 2013) and \textbf{MONCACO meeting}. 
-\end{tabular}$$
+### 2012-2018 (Total: 17)
+
+**WHOI**, *Unsupervised learning classifies global ocean dynamical regions**.
+
+**Columbia University, LDEO**, *Linear predictability: A sea surface height case study*.
+
+**Yale University**, *Ocean model utility dependence on horizontal resolution*.
+
+Others: **MIT**, (2018 & 2015), **Stony Brook University**, **U. Texas at Austin**, **U. Washington**, **Oregon State University**, **U. Oxford**, **MIT**, (Two invited student talks), **U. Bristol**, **NOCS**, (2015, 2014 & 2013) and **MONCACO meeting**. 
