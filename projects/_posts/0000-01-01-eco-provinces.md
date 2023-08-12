@@ -28,4 +28,4 @@ An unsupervised learning method is presented for determining global marine ecolo
 
 Over a hundred eco-provinces are identified with the density-based spatial clustering of applications with noise (DBSCAN) algorithm. Using a connectivity graph with ecological dissimilarity as the distance metric, robust aggregated eco-provinces (AEPs) are objectively defined by nesting the eco-provinces. Using the AEPs, the control of nutrient supply rates on community structure is explored. Eco-provinces and AEPs are unique and aid model interpretation. They could facilitate model intercomparison and potentially improve understanding and monitoring of marine ecosystems.
 
-*The results from this project were presented in this visual [story map]("https://ecco-group.org/storymaps.cgi?id=42")*
+*The results from this project were presented in this visual [story map](https://ecco-group.org/storymaps.cgi?id=42)*
