@@ -12,6 +12,8 @@ header:
 
 The group encourages applications from individuals with non-traditional backgrounds and from historically underrepresented minorities including of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status and others.
 
+General topics of interest are illustrated under Projects, and activities within the larger climate, sea level variability and lang-range weather are ongoing. Along with research excellence, Prof. Sonnewald is committed to fostering the career development of students and postdocs.
+
 ## Graduate Students:
 
 The Computational Climate and Ocean Group participates in several [UC Davis graduate programs](https://grad.ucdavis.edu/graduate-programs):
