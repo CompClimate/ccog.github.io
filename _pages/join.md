@@ -29,6 +29,8 @@ Please apply to one of these programs and list Maike as a preferred adviser.
 
 Please email Maike (sonnewald at ucdavis.edu) your resume and three most significant publications. Strong candidates have published on either oceanography, general climate, machine learning or complex systems.
 
+Beyond positions advertised, Maike is open to supporting applications to [UC Davis fellowships](https://grad.ucdavis.edu/chancellors-postdoctoral-fellowship-program-cpfp) among others.
+
 
 ## Other visitors
 
