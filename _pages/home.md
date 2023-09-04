@@ -15,14 +15,14 @@ header:
 
 > We target grand challenges with the aim of improving ocean and climate understanding and resilience. Solutions to the challenges humanity, and the world, face are inherently interdisciplinary, and so is our lab. Blending cutting-edge computational and Earth science tools and knowledge, we combine theory, observations, and numerics to pioneer methods and create insight.
 
-CCOG focuses on several research areas:
+The group focuses on several research areas:
 
 
 {% capture notice-1 %}
 **Computational**: *Injecting knowledge to guide innovation*
   1. **Data mining:** Pioneer methods fit for purpose to uncover fundamental insight
   2. **Sparse data inference:** Leverage complicated and messy data
-  3. **AI for science:** UQ and XAI for utilizing machine learning as universal function approximator
+  3. **AI for science:** UQ and XAI for utilizing machine learning as a universal function approximator
 {% endcapture %}
 
 {% capture notice-2 %}
