@@ -22,10 +22,12 @@ The Computational Climate and Ocean Group participates in several [UC Davis grad
 - [Atmosphere Science](https://grad.ucdavis.edu/programs/gatm)
 - [Applied Mathematics](https://grad.ucdavis.edu/programs/gapm)
 
-Please apply to one of these programs and list Maike as a preferred adviser.
+Please apply to one of these programs and list Maike as a preferred adviser. More information about the potential projects, required qualifications, and application process can be found [here](https://compclimate.github.io/ccog.github.io/assets/papers/PhD_CCOG.pdf).
 
 
 ## Postdoctoral Fellows
+
+A position is currently open in **‘sea level predictability and machine learning’**. See more information [here](https://docs.google.com/forms/d/e/1FAIpQLSd911Ovi26Cb1Y_VKKdTPH9xWa7ePPejppD5aN1rE4HXN03tA/viewform). Start date is flexible (broadly 1/1/2024 to 1/8/2024). Review of applications will start 10/11/2023 and continue until the position is filled.
 
 Please email Maike (sonnewald at ucdavis.edu) your resume and three most significant publications. Strong candidates have published on either oceanography, general climate, machine learning or complex systems.
 
