@@ -6,6 +6,6 @@ role: "Group Leader"
 status: "active"
 pronouns: "she/her"
 sort_display: 4
-image_path: /assets/images/profile-maike.jpg
+image_path: /assets/images/Maike_UCDavis_cropped.png
 website: "https://www.msonnewald.com/"
 ---
