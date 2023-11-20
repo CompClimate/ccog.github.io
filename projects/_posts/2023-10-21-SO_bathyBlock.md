@@ -5,7 +5,7 @@ header:
     teaser: "assets/images/SO_RegEntropy.png"
 featured_figure: 
     image: "assets/images/SO_RegEntropy.png"
-learn_more: "assets/papers/enso_project_paper.pdf"
+learn_more: "https://arxiv.org/pdf/2310.13916.pdf"
 code: "https://github.com/maikejulie/DNN4Cli"
 people:
   - name: "Will Yik"
