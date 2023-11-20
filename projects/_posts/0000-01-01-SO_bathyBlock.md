@@ -2,7 +2,7 @@
 title: "Southern Ocean Dynamics Under Climate Change"
 excerpt:  "New Knowledge Through Physics-Guided Machine Learning"
 header:
-    teaser: "assets/images/SO_RegEntropy.png"
+    teaser: "assets/images/SO_bathy_teaser.png"
 featured_figure: 
     image: "assets/images/SO_RegEntropy.png"
     caption: N dynamical regime predictions for the Historical and SSP585 scenarios along with entropy (uncertainty) for the SS585 predictions. The contours show bathymetry. The inset shows the area of interest where the ACC meets the PAR, and the dashed white line shows the meridian where the transects of paper Figure 3 are taken.
@@ -16,7 +16,6 @@ people:
   - name: "Mariana CLare"
     ccog: true
   - name: "Redouane Lguensat"
----
 tags:
   - ocean
   - deep learning
