@@ -60,7 +60,7 @@ the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
 ## Certificate of Recognition from the California State Legislature
 
 <figure style="width: 250px" class="align-left">
-  <img src="{{ site.baseurl }}/assets/images/CaliCert.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/CaliAssembly.jpg" alt="">
 </figure>  
 
-Prof. Sonnewald recieves a certificate of recognition from the California State Legislature.
+Prof. Sonnewald recieves a certificate of recognition from the California State Legislature for advancing multicultural perspectives on science.
