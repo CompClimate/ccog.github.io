@@ -56,3 +56,11 @@ decision-making associated with marine protected area implementation and the ref
 Marine Protected Area Legislation. Data like what we provided informs the development 
 of ecologically representative systems of protected areas as required by international agreements such as 
 the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
+
+## Certificate of Recognition from the California State Legislature
+
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/images/CaliCert.jpg" alt="">
+</figure>  
+
+Prof. Sonnewald recieves a certificate of recognition from the California State Legislature.
