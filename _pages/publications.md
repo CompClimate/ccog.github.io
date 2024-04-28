@@ -22,7 +22,13 @@ For more complete publication list of Prof. Sonnewald including review articles 
 
 ## Prof. Sonnewald invited talks (selected)
 
-#### 2023 
+#### 2024 (Total: 5)
+
+**Symposium: The Role of Federal Fishery Disaster Assistance in a Climate Change-Driven World**
+
+**CoE Dean's Executive Committee**
+
+#### 2023 (Total: 17)
 
 **AI for Good** by the United Nations' International Telecommunication Union
 
