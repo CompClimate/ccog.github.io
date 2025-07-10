@@ -6,5 +6,5 @@ role: "PhD Student"
 status: "active"
 pronouns: "she/her"
 sort_display: 2
-image_path: /assets/images/makayla.jpeg
+image_path: /assets/images/Makayla_square.png
 ---
