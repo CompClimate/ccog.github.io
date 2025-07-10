@@ -3,7 +3,7 @@ lastname: "Wood"
 firstname: "Avery"
 pub_id: "Wood A"
 role: "PhD Student"
-status: "active"
+status: "alumn"
 pronouns: "he/him"
 sort_display: 2
 image_path: /assets/images/avery.jpeg
