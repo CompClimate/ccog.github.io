@@ -60,7 +60,7 @@ the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
 ## GenAI Guidelines for the Louisville Metro Government
 
 <figure style="width: 250px" class="align-left">
-  <img src="{{ site.baseurl }}/assets/images/Metro-Logo.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/meteroSmall.png" alt="">
 </figure>  
 
 Prof. Sonnewald advised the Louisville Metro Government (Kentucky) on environmental guidelines for GenAI use. While highly useful, GenAI has environmental impacts from energy consumption. The strategic plan for AI rollout aimed to include guidelines for limiting the environmental impact of everyday GenAI use within the organization.
