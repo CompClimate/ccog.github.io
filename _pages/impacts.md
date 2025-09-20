@@ -57,6 +57,15 @@ Marine Protected Area Legislation. Data like what we provided informs the develo
 of ecologically representative systems of protected areas as required by international agreements such as 
 the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
 
+## GenAI Guidelines for the Louisville Metro Government
+
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/images/Metro-Logo.jpg" alt="">
+</figure>  
+
+Prof. Sonnewald advised the Louisville Metro Government (Kentucky) on environmental guidelines for GenAI use. While highly useful, GenAI has environmental impacts from energy consumption. The strategic plan for AI rollout aimed to include guidelines for limiting the environmental impact of everyday GenAI use within the organization.
+
+
 ## Certificate of Recognition from the California State Legislature
 
 <figure style="width: 250px" class="align-left">
@@ -65,10 +74,4 @@ the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
 
 Prof. Sonnewald recieves a certificate of recognition from the California State Legislature for advancing multicultural perspectives on science.
 
-## GenAI Guidelines for the Louisville Metro Government
 
-<figure style="width: 250px" class="align-left">
-  <img src="{{ site.baseurl }}/assets/images/Metro-Logo.jpg" alt="">
-</figure>  
-
-Prof. Sonnewald advised the Louisville Metro Government on environmental guidelines for GenAI use.
