@@ -64,3 +64,11 @@ the Convention on Biological Diversity's *Programme of Work on Protected Areas*.
 </figure>  
 
 Prof. Sonnewald recieves a certificate of recognition from the California State Legislature for advancing multicultural perspectives on science.
+
+## GenAI Guidelines for the Louisville Metro Government
+
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/images/Metro-Logo.jpg" alt="">
+</figure>  
+
+Prof. Sonnewald advised the Louisville Metro Government on environmental guidelines for GenAI use.
