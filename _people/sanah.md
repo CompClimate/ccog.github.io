@@ -2,7 +2,7 @@
 lastname: "Suri"
 firstname: "Sanah"
 pub_id: "Suri S"
-role: "PhD Student"
+role: "Postdoc"
 status: "active"
 pronouns: "she/her"
 sort_display: 2
