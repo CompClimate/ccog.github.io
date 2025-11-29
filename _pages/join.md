@@ -22,7 +22,7 @@ The Computational Climate and Ocean Group participates in several [UC Davis grad
 - [Atmosphere Science](https://grad.ucdavis.edu/programs/gatm)
 - [Applied Mathematics](https://grad.ucdavis.edu/programs/gapm)
 
-Please apply to one of these programs and list Maike as a preferred adviser.
+Unfortunately, there are no open general positions.
 
 
 ## Postdoctoral Fellows
