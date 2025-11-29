@@ -6,6 +6,6 @@ role: "PhD Student"
 status: "active"
 pronouns: "she/her"
 sort_display: 4
-image_path: /assets/images/lumina.jpg
+image_path: /assets/images/lumina.png
 
 ---
