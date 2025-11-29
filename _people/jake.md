@@ -5,6 +5,6 @@ pub_id: "Tallman J"
 role: "PhD Student"
 status: "active"
 sort_display: 4
-image_path: /assets/images/logo.png
+image_path: /assets/images/jake.png
 
 ---
