@@ -1,184 +1,107 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Computational Climate and Ocean Group Website
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
-[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
+Source for the [CCOG lab website](https://compclimate.github.io), built with Jekyll and hosted on GitHub Pages.
 
-Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
+## Site Structure
 
-:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+| Path | Purpose |
+|---|---|
+| `_people/` | Lab member profiles |
+| `projects/_posts/` | Research project pages |
+| `_data/news.yml` | Home page news items |
+| `_data/publications.bib` | BibTeX bibliography |
+| `_pages/` | Top-level site pages |
 
+## Adding Content
 
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and must be retained in the `plugins` array of `_config.yml`. Otherwise you'll encounter `Unknown tag 'include_cached'` errors at build.
+### News
 
-## Adding content
+File: `_data/news.yml`
 
-Each of the collections (`_people`, `_projects`, `_news`) contains a `README.md` with details on how to add content. The bibliography is located in `_data/publications.bib`.
+Prepend a new entry at the top of the file. Only year and month are shown on the home page.
 
-## Installation
+```yaml
+- date: "2026-02-01"
+  text: |
+    Your news item here. Supports **Markdown** and [links](https://example.com).
+```
 
-There are three ways to install: as a [gem-based theme](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes), as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) (GitHub Pages compatible), or forking/directly copying all of the theme files into your project.
+### People
 
-### Gem-based method
+Directory: `_people/`
 
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme’s gem, hidden from your immediate view. Yet all of the necessary directories will be read and processed during Jekyll’s build process.
+Create a new `.md` file (e.g., `_people/firstname.md`) with front matter only — no body text needed:
 
-This allows for easier installation and updating as you don't have to manage any of the theme files. To install:
+```yaml
+---
+lastname: "Smith"
+firstname: "Jane"
+pub_id: "Smith J"           # Must match author string in publications.bib
+role: "PhD Student"         # e.g. PI, Postdoc, PhD Student, MS Student, Undergrad
+status: "active"            # active or alumn
+sort_display: 5             # Lower numbers appear first
+image_path: /assets/images/jane.jpeg   # Square images recommended
+pronouns: "she/her"         # Optional
+website: "https://example.com"         # Optional
+---
+```
 
-1. Add the following to your `Gemfile`:
+People images should be square. The default placeholder is the otter image at `/assets/images/otter.png`.
 
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
+### Publications
 
-2. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
+File: `_data/publications.bib`
 
-   ```bash
-   bundle
-   ```
+Add a standard BibTeX entry. The `pub_id` field in a person's profile links their name in the bibliography to their CCOG profile — ensure the `pub_id` matches the author string exactly as it appears in BibTeX entries.
 
-3. Set the `theme` in your project's Jekyll `_config.yml` file:
+### Projects
 
-   ```yaml
-   theme: minimal-mistakes-jekyll
-   ```
+Directory: `projects/_posts/`
 
-To update the theme run `bundle update`.
+Create a new file named `0000-01-01-<slug>.md` (the date prefix is required by Jekyll but is not displayed):
 
-### Remote theme method
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install:
-
-1. Create/replace the contents of your `Gemfile` with the following:
-
-   ```ruby
-   source "https://rubygems.org"
-
-   gem "github-pages", group: :jekyll_plugins
-   gem "jekyll-include-cache", group: :jekyll_plugins
-   ```
-
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.24.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
-
-**Looking for an example?** Use the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting a GitHub Pages hosted site up and running. Generate a new repository from the starter, replace sample content with your own, and configure as needed.
-
-## Usage
-
-For detailed instructions on how to configure, customize, add/migrate content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
-
-For help with using the theme or general Jekyll support questions, please use the [Jekyll Talk forums](https://talk.jekyllrb.com/).
-
-
+```yaml
+---
+title: "Project Title"
+excerpt: "One-sentence description shown on the projects listing page."
+header:
+    teaser: /assets/images/your-figure.png
+featured_figure:
+    image: /assets/images/your-figure.png
+    caption: "Figure caption."
+learn_more: "https://doi.org/..."   # Optional: link to paper
+code: "https://github.com/..."      # Optional: link to code
+people:
+  - name: "Jane Smith"
+    ccog: true                      # true if current/former CCOG member
+  - name: "Collaborator Name"
+tags:
+  - ocean
+  - deep learning
 ---
 
-## Credits
+Body text describing the project. Supports full Markdown.
+```
 
-### Icons + Demo Images:
+## Local Development
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+**Prerequisites**: Ruby and Bundler.
 
-### Other:
+```bash
+bundle install              # Install Ruby gem dependencies
+bundle exec jekyll serve    # Serve locally at http://localhost:4000/ccog.github.io/
+```
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Gumshoe](https://github.com/cferdinandi/gumshoe)
-- [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
-- [Lunr](http://lunrjs.com)
+After editing `_config.yml`, restart the server — it does not auto-reload config changes.
 
----
+## Deployment
 
-## License
+Pushes to the `main` branch deploy automatically via GitHub Pages.
 
-The MIT License (MIT)
+## Attribution
 
-Copyright (c) 2013-2020 Michael Rose and contributors
+This site is built with:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
-creators Garrett Knoll, Arthur Shlain, and tracy tam.
-Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
-
-Minimal Mistakes incorporates [Font Awesome](http://fontawesome.io/),
-Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
-and [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
-
-Minimal Mistakes incorporates [Susy](http://susy.oddbird.net/),
-Copyright (c) 2017, Miriam Eric Suzanne.
-Susy is distributed under the terms of the [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause).
-
-Minimal Mistakes incorporates [Breakpoint](http://breakpoint-sass.com/).
-Breakpoint is distributed under the terms of the [MIT/GPL Licenses](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [FitVids.js](https://github.com/davatron5000/FitVids.js/),
-Copyright (c) 2013 Dave Rubert and Chris Coyier.
-FitVids is distributed under the terms of the [WTFPL License](http://www.wtfpl.net/).
-
-Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
-Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
-Magnific Popup is distributed under the terms of the MIT License.
-
-Minimal Mistakes incorporates [Smooth Scroll](http://github.com/cferdinandi/smooth-scroll),
-Copyright (c) 2019 Chris Ferdinandi.
-Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [Gumshoejs](http://github.com/cferdinandi/gumshoe),
-Copyright (c) 2019 Chris Ferdinandi.
-Gumshoejs is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/),
-Copyright (c) 2010 "Cowboy" Ben Alman.
-jQuery throttle / debounce is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav),
-Copyright (c) 2015 Luke Jackson.
-GreedyNav.js is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [Jekyll Group-By-Array](https://github.com/mushishi78/jekyll-group-by-array),
-Copyright (c) 2015 Max White <mushishi78@gmail.com>.
-Jekyll Group-By-Array is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [@allejo's Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
-Copyright (c) 2017 Vladimir Jimenez.
-Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
-Copyright (c) 2018 Oliver Nightingale.
-Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+- [Jekyll](https://jekyllrb.com/)
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme by [Michael Rose](https://mademistakes.com/) — MIT License
+- [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for bibliography rendering
