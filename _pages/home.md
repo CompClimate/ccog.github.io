@@ -49,12 +49,12 @@ The group focuses on several research areas:
 
 ## News
 
-{% assign sorted = site.news | sort: 'date' | reverse %}
+{% assign sorted = site.data.news | sort: 'date' | reverse %}
 
 <div id='short_news' style="display: block;">
   <ul>
   {% for news in sorted limit:5 %}
-    <li><b> {{ news.date | date: "%y/%m" }} </b> - {{ news.content | markdownify  | remove: "<p>" | remove: "</p>"}} </li>
+    <li><b> {{ news.date | date: "%y/%m" }} </b> - {{ news.text | markdownify  | remove: "<p>" | remove: "</p>"}} </li>
   {% endfor %}
   </ul>
   <a href="#" onclick="hideBlock('short_news'); showBlock('long_news'); return false;" class="btn btn--primary">Show more</a>
@@ -62,9 +62,8 @@ The group focuses on several research areas:
 
 <div id='long_news' style="display: none;">
   <ul>
-  {% assign sorted = site.news | sort: 'date' | reverse %}
   {% for news in sorted %}
-    <li><b> {{ news.date | date: "%y/%m" }} </b> - {{ news.content | markdownify  | remove: "<p>" | remove: "</p>"}} </li>
+    <li><b> {{ news.date | date: "%y/%m" }} </b> - {{ news.text | markdownify  | remove: "<p>" | remove: "</p>"}} </li>
   {% endfor %}
   </ul>
   <a href="#" onclick="hideBlock('long_news'); showBlock('short_news'); return false;" class="btn btn--primary">Show less</a>

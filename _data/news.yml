@@ -1,0 +1,123 @@
+- date: "2026-02-21"
+  text: |
+    Luca discovered buttons.
+
+- date: "2025-09-11"
+  text: |
+    We have three new graduate students joining CCOG, exciting times! In Computer Science Kieran Ringel joins from Los Alamos National Lab, and Jake Tallman from independent consulting. In Applied Math, Lumina Kinsinger-Dang joins us from UC Santa Cruz. Welcome!
+
+- date: "2025-08-16"
+  text: |
+    Dr. Sanah Suri joins the lab as a postdoc. Welcome!
+
+- date: "2025-06-01"
+  text: |
+    Our work on supporting sustainable fisheries was awarded the UC Davis Grant for Advancing Sustainable Development Goals. Fabulous!
+
+- date: "2024-10-10"
+  text: |
+    We're thrilled to receive one of the NSF CAIG grants! Joining with UC Santa Cruz we will be looking into remote monitoring of ocean fronts and upper ocean heat content.
+
+- date: "2024-03-29"
+  text: |
+    Prof. Sonnewald was interviewed by the Guardian for their front-page feature on Atmospheric Rivers. Read it [here](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis).
+
+- date: "2024-03-01"
+  text: |
+    Happy Women's Day! Prof. Sonnewald is featured in a Women's Day UC Davis CoE news post.
+
+- date: "2024-02-06"
+  text: |
+    The lab heads to the Ocean Sciences Meeting! We're excited both Yvonne and Will have been given talks and Prof. Sonnewald is convening a session as well as giving a talk.
+
+- date: "2024-02-01"
+  text: |
+    Our new paper on the safe uses of NNs in climate contexts is out now! Title: The Importance of Architecture Choice in Deep Learning for Climate Applications. Read it [here](https://arxiv.org/pdf/2402.13979).
+
+- date: "2024-01-14"
+  text: |
+    Prof. Sonnewald was honoured to be one of two faculty to present to the UC Davis College of Engineering Dean's Executive Committee about the work and vision of the CCOG.
+
+- date: "2024-01-08"
+  text: |
+    The US Dynamics Days conference invited Prof. Sonnewald to give a keynote and we are excited for Simon Dräger to present his first poster with CCOG!
+
+- date: "2023-12-12"
+  text: |
+    Our session at the American Geosciences Union is around the corner and we are looking forward to an excellent round of talks. Prof. Sonnewald and Will Yik are both presenting.
+
+- date: "2023-12-01"
+  text: |
+    Prof. Sonnewald was at UC Louvain as a visiting Professor working with a team on uncovering fundamental regimes in Antarctic sea-ice
+
+- date: "2023-11-08"
+  text: |
+    Prof. Sonnewald is honored to recieve a certificate of recognition from the California State Assembly.
+
+- date: "2023-10-23"
+  text: |
+    Our new paper, led by Will Yik is out now! Title: Southern Ocean Dynamics Under Climate Change: New Knowledge Through Physics-Guided Machine Learning. Read it [here](https://arxiv.org/abs/2310.13916).
+
+- date: "2023-10-06"
+  text: |
+    Prof. Sonnewald is voted to join the Applied Math Graduate Group!
+
+- date: "2023-10-04"
+  text: |
+    Worried that AI will ruin science? Kaiser et al. is out on ArXiv describing a way to avert the 'oracular crisis' in AI and a roadmap to achieve machine theorization.
+
+- date: "2023-09-06"
+  text: |
+    New [article](https://cs.ucdavis.edu/news/new-computer-science-professor-aims-turn-tides-climate-change-applying-machine-learning-ocean) featuring Prof. Sonnewald on the UC Davis CS department by talented Jessica Heath.
+
+- date: "2023-08-23"
+  text: |
+    Documentation for NEMI is now [available.](https://compclimate.github.io/NEMI/)
+
+- date: "2023-08-14"
+  text: |
+    Will Yik was featured in the NOAA Oceanic and Atmospheric Research (OAR) newsletter! Read it [here.](assets/papers/OAR_EEO_Diversity_Newsletter_Intern_Edition_Summer_2023_Aug.pdf)
+
+- date: "2023-08-10"
+  text: |
+    Yvonne Jenniges gave a well-recieved talk at the Institute for Disease Modeling (Bill and Melinda Gates Foundation) titled "Towards objective data mining: An example on 3D North Atlantic physical and biogeochemical data"! See project [details here.](https://compclimate.github.io/ccog.github.io/projects/biogeochemPhysProvince/)
+
+- date: "2023-08-07"
+  text: |
+    Prof. Sonnewald is elected a Faculty Scholar of the Center for the Advancement of Multicultural Perspectives on Science (CAMPOS).
+
+- date: "2023-07-30"
+  text: |
+    Will Yik attended and spoke at the Hollings Symposium in Washington DC, right after giving a talk at NOAA-GFDL!
+
+- date: "2023-07-02"
+  text: |
+    We recieved $510k from NOAA to study and improve long range forecasts of sea level! I'll be looking for a postdoctoral scholar/research scientist to start in 2024.
+
+- date: "2023-07-01"
+  text: |
+    Prof. Sonnewald joins the UC Davis computer science department.
+
+- date: "2023-06-01"
+  text: |
+    Abstract submissions are [open](https://agu.confex.com/agu/OSM24/prelim.cgi/Session/196601) for our Ocean Sciences Meeting 2024 session: DO009 - New knowledge through Machine Learning guided exploration of large-scale datasets in physical oceanography
+
+- date: "2023-05-23"
+  text: |
+    Prof. Sonnewald speaks in the AI4Good [talk series](https://www.youtube.com/watch?v=20NnFCrCAj8&ab_channel=AIforGood).
+
+- date: "2023-05-05"
+  text: |
+    Prof. Sonnewald is featured in AGU's ["Third Pod from the Sun"](https://thirdpodfromthesun.com/2023/05/05/wave-and-means/).
+
+- date: "2023-05-05"
+  text: |
+    [Our paper](https://www.nature.com/articles/s43247-023-00793-7) on the Southern Ocean supergyre was published in Nature Communications Earth & Environment.
+
+- date: "2023-03-01"
+  text: |
+    Prof. Sonnewald is featured in a [GFDL article](https://www.gfdl.noaa.gov/news/noaa-scientists-harness-machine-learning-to-advance-climate-models/) on how machine learning can advance climate models.
+
+- date: "2023-01-01"
+  text: |
+    Our [review paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac0eb0) is featured in the WMO's [concept note](https://library.wmo.int/index.php?lvl=notice_display&id=22254) "Data Handling and the Application of Artificial Intelligence in Environmental Modelling"

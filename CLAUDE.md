@@ -21,8 +21,10 @@ After editing `_config.yml`, restart the server (it does not auto-reload).
 
 **Collections** (defined in `_config.yml`):
 - `_people/` — Group members. Each file has YAML front matter with `lastname`, `firstname`, `pub_id`, `role`, `status` (active/alumn), `sort_display`, `image_path`. Optional: `website`, `pronouns`.
-- `_news/` — News items. Filename format: `%Y-%m-%d.md`. Front matter requires `date`.
 - `projects/_posts/` — Research projects. Front matter: `title`, `excerpt`, `header.teaser`, `featured_figure`, `learn_more`, `code`, `people`.
+
+**Data files** (`_data/`):
+- `news.yml` — News items displayed on the home page. Each entry has `date` (quoted string) and `text` (Markdown). Sorted newest-first. To add news, prepend a new entry at the top of the file.
 
 **Pages** (`_pages/`): Top-level site pages (home, publications, projects, impacts, people, join, contact). Navigation order is set in `_data/navigation.yml`.
 
@@ -32,5 +34,5 @@ After editing `_config.yml`, restart the server (it does not auto-reload).
 
 - People images should be square; a default otter image is available as placeholder.
 - Project teaser images should have consistent aspect ratios across entries.
-- News files use date-based filenames (`2024-03-29.md`); only year and month render on the home page.
+- News items live in `_data/news.yml`; only year and month render on the home page. Add new entries at the top of the file.
 - To add a page to the top navigation bar, edit `_data/navigation.yml`.
