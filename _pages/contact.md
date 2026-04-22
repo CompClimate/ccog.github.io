@@ -25,6 +25,9 @@ Seattle, Washington
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.6687934025294!2d-122.31524002837449!3d47.652002699633606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549014ee75e07991%3A0xbe381afcf37426b0!2sOcean%20Sciences%20Building%20(OCN)!5e0!3m2!1sen!2sus!4v1691459940525!5m2!1sen!2sus" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
 
+[Sonnewald CV]({{ site.baseurl | append: "/assets/papers/CV_Sonnewald 2.pdf" }}){: .btn .btn--inverse}
+<br>
+
 ## Group location:
 - Watershed Science, Rooms 2106 and 2201
 
