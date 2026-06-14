@@ -19,17 +19,17 @@ The group focuses on several research areas:
 
 
 {% capture notice-1 %}
-**Computational**: *Injecting knowledge to guide innovation*
-  1. **Data mining:** Pioneer methods fit for purpose to uncover fundamental insight
-  2. **Sparse data inference:** Leverage complicated and messy data
-  3. **AI for science:** UQ and XAI for utilizing machine learning as a universal function approximator
+**Computational**: *trustworthy innovation*
+  1. **Knowledge-guided & interpretable ML** Building physics into models so results can be explained and verified
+  2. **Discovery from data** Unsupervised methods (e.g. NEMI) that surface meaningful structure with principled validation
+  3. **Trustworthy prediction** Uncertainty quantification and explainable AI (XAI) to make neural networks guides to discovery
 {% endcapture %}
 
 {% capture notice-2 %}
-**Earth Science**: *Objective advancement of our understanding of the Earth*
-  1. **Fundamental insight**: Elucidate ocean and climate dynamics
+**Earth Science**: *Understanding for resilience*
+  1. **Ocean & climate dynamics** Circulation regimes, the Southern Ocean, monsoons, and ocean–atmosphere coupling
   2. **Forecasting:** Improve predictions on long range weather and climate
-  3. **Resilience:** Study impacts on physical and biogeochemical ocean and climate
+  3. **Ecosystems & impacts** Marine ecological provinces, fisheries, and biogeochemistry for resilient communities
 {% endcapture %}
 
 <div class="notice">{{ notice-1 | markdownify }}</div>
